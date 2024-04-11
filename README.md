@@ -75,8 +75,7 @@ else:
 
 # Output : 
 
-![Screenshot 2024-04-04 233424](https://github.com/narmadha2006/Poisson_distribution/assets/151390280/b0e47b30-826d-4bab-b924-748edcf5f611)
-
+![Screenshot 2024-04-11 132633](https://github.com/narmadha2006/Poisson_distribution/assets/151390280/fa9571af-7025-4aa4-8dd9-c71a753ea9b8)
 
 
 # Results
